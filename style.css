@@ -9,22 +9,19 @@
 .header-image {
     display: block;
     margin: 0 auto;
-    /* Pour centrer horizontalement */
     max-width: 60%;
-    /* Réduire la largeur de l'image */
     height: auto;
-    /* Pour maintenir les proportions de l'image */
 }
 
 .centered {
     text-align: center;
-    /* Centrer le texte */
 }
 
 .button-container {
     display: flex;
-    justify-content: first baseline
-        /* Pour espacement équitable */
+    justify-content: center;
+    flex-direction: column; /* Ajout pour empiler les boutons */
+    align-items: center; /* Ajout pour centrer les boutons horizontalement */
 }
 
 .btn {
@@ -37,7 +34,7 @@
     text-decoration: none;
     border: none;
     border-radius: 5px;
-    margin: 20px auto;
+    margin: 10px 0; /* Modification pour l'espacement entre les boutons */
 }
 
 .btn:hover {
@@ -69,16 +66,13 @@ h2 {
 
 footer {
     background-color: rgba(94, 143, 144, 0.647);
-    /* Utilisation de RGBA pour la transparence */
     color: #fff;
     padding: 30px 0;
-    /* Réduction du padding pour réduire la taille */
 }
 
 .footer-content {
     display: flex;
     justify-content: space-around;
-
 }
 
 .footer-section {
@@ -111,4 +105,11 @@ footer {
 
 .footer-section ul li a:hover {
     text-decoration: underline;
+}
+
+/* Media query pour les écrans de taille maximale de 768px */
+@media screen and (max-width: 768px) {
+    .button-container {
+        width: 100%; /* Ajustement de la largeur */
+    }
 }
