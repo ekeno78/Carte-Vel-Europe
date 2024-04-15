@@ -20,10 +20,13 @@
     text-align: center;
     /* Centrer le texte */
 }
+
 .button-container {
     display: flex;
-    justify-content:first baseline /* Pour espacement équitable */
-  }
+    justify-content: first baseline
+        /* Pour espacement équitable */
+}
+
 .btn {
     display: block;
     width: 200px;
@@ -73,9 +76,9 @@ footer {
 }
 
 .footer-content {
-        display: flex;
-        justify-content: space-around; 
-    
+    display: flex;
+    justify-content: space-around;
+
 }
 
 .footer-section {

@@ -1,12 +1,5 @@
 [
-    {
-        "nom": "Avenir En Héritage",
-        "adresse": "99 rue Nicolas Gargot, 17000 La Rochelle",
-        "latitude": 46.13976,
-        "longitude": -1.14570,
-        "marker": "images/depart.png",
-        "qrcode": "https://www.avenirenheritage.com/"
-    },
+
     {
         "nom": "Villeneuve-les-Salines Place du 14 Juillet",
         "adresse": "Place du 14 Juillet, 17000 La Rochelle",
@@ -16,19 +9,38 @@
         "qrcode": "https://me-qr.com/fr/data/image-pack/105177197"
     },
     {
-        "nom": "Canal de Rompsay",
-        "adresse": "Ce canal relie Marans et le Marais poitevin à La Rochelle.",
-        "latitude": 46.15822,
-        "longitude": -1.13580,
-        "marker": "images/image2.png",
-        "qrcode": "chemin/vers/le/QRcode3.png"
+        "nom": "Marais de Tasdon",
+        "adresse": "55 boulevard Joffre, 17000 La Rochelle",
+        "latitude": 46.14902,
+        "longitude": -1.12197,
+        "qrcode": "https://me-qr.com/fr/data/image-pack/105158674"
+    },
+    {
+        "nom": "Vélodyssée la rochelle",
+        "adresse": " 85 boulevard de la République, dans le quartier des Minimes",
+        "latitude": 46.13849,
+        "longitude": -1.15000,
+        "qrcode": "https://me-qr.com/fr/data/image-pack/105158674"
+    },
+    {
+        "nom": "L’Auberge de Jeunesse",
+        "adresse": "Avenue des Minimes, 17000 La Rochelle",
+        "latitude": 46.14455,
+        "longitude": -1.16187,
+        "qrcode": "chemin/vers/le/QRcode12.png"
+    },
+    {
+        "nom": "L’Université LR",
+        "adresse": "23 Avenue Albert Einstein, 17000 La Rochelle",
+        "latitude": 46.14779,
+        "longitude": -1.15514,
+        "qrcode": "chemin/vers/le/QRcode11.png"
     },
     {
         "nom": "Gare La Rochelle",
         "adresse": "Place Pierre Sémard, 17000 La Rochelle",
         "latitude": 46.15301,
         "longitude": -1.14597,
-        "marker": "images/image2.png",
         "qrcode": "https://me-qr.com/fr/data/image-pack/105158674"
     },
     {
@@ -36,67 +48,32 @@
         "adresse": "6 Rue Saint-Michel, 17000 La Rochelle",
         "latitude": 46.15973,
         "longitude": -1.14961,
-        "marker": "images/image3.png",
         "qrcode": "chemin/vers/le/QRcode5.png"
-    },
-    {
-        "nom": "Salle de l’Oratoire",
-        "adresse": "6 Bis Rue Albert 1er, 17000 La Rochelle",
-        "latitude": 46.16351,
-        "longitude": -1.15184,
-        "marker": "images/image4.png",
-        "qrcode": "chemin/vers/le/QRcode6.png"
-    },
-    {
-        "nom": "Place de l’Europe, Mireuil",
-        "adresse": "Place de l’Europe à Mireuil à La Rochelle",
-        "latitude": 46.16614,
-        "longitude": -1.17958,
-        "marker": "images/image5.png",
-        "qrcode": "chemin/vers/le/QRcode7.png"
-    },
-    {
-        "nom": "Port de Pêche et Usine Solvay de Chef de Baie",
-        "adresse": "89 Quai Ponant, La Rochelle",
-        "latitude": 46.1491,
-        "longitude": -1.22145,
-        "marker": "images/image7.png",
-        "qrcode": "chemin/vers/le/QRcode8.png"
     },
     {
         "nom": "Port-Neuf, Batiments 11 à 16",
         "adresse": "rue de Normandie",
         "latitude": 46.15843,
         "longitude": -1.18132,
-        "marker": "images/image9.png",
         "qrcode": "chemin/vers/le/QRcode9.png"
     },
     {
-        "nom": "La Médiathèque LR",
-        "adresse": "Avenue Michel Crépeau, 17000 La Rochelle",
-        "latitude": 46.15315,
-        "longitude": -1.15344,
-        "marker": "images/image9.png",
-        "qrcode": "chemin/vers/le/QRcode10.png"
+        "nom": "Centre nautique - Les Plates ",
+        "adresse": "All. Léon Douzille, 17000 La Rochelle",
+        "latitude": 46.15156,
+        "longitude": -1.18776,
+        "qrcode": "chemin/vers/le/QRcode9.png"
     },
     {
-        "nom": "L’Université LR",
-        "adresse": "23 Avenue Albert Einstein, 17000 La Rochelle",
-        "latitude": 46.14779,
-        "longitude": -1.15514,
-        "marker": "images/image10.png",
-        "qrcode": "chemin/vers/le/QRcode11.png"
+        "nom": "Port de Pêche et Usine Solvay de Chef de Baie",
+        "adresse": "89 Quai Ponant, La Rochelle",
+        "latitude": 46.1491,
+        "longitude": -1.22145,
+        "qrcode": "chemin/vers/le/QRcode8.png"
     },
+
     {
-        "nom": "L’Auberge de Jeunesse",
-        "adresse": "Avenue des Minimes, 17000 La Rochelle",
-        "latitude": 46.14455,
-        "longitude": -1.16187,
-        "marker": "images/arrive.png",
-        "qrcode": "chemin/vers/le/QRcode12.png"
-    },
-    {
-        "nom": "Grand Port Maritime",
+        "nom": "Port de Commerce Maritime",
         "adresse": "141 Boulevard Emile Delmas CS 70394, 17001 La Rochelle",
         "latitude": 46.16167,
         "longitude": -1.22566,
