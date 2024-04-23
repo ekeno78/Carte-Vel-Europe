@@ -19,26 +19,26 @@
 
 .button-container {
     display: flex;
-    justify-content: center;
-    flex-direction: column; /* Ajout pour empiler les boutons */
-    align-items: center; /* Ajout pour centrer les boutons horizontalement */
+    justify-content: center; 
+    flex-direction: row; 
+    align-items: center;
 }
 
 .btn {
-    display: block;
-    width: 200px;
     padding: 10px 20px;
-    background-color: #ed8f67;
+    text-decoration: none; 
     color: white;
-    text-align: center;
-    text-decoration: none;
-    border: none;
-    border-radius: 5px;
-    margin: 10px 0; /* Modification pour l'espacement entre les boutons */
+    background-color: #ed8f67; 
+    border-radius: 5px; 
+    border: none; 
+    font-size: 16px;
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+    margin-right: 10px; 
 }
 
-.btn:hover {
-    background-color: #f4c278;
+.btn:last-child {
+    margin-right: 0; 
 }
 
 body {

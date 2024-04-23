@@ -20,7 +20,10 @@ fetch('data.json')
       var popupContent = '<b>' + place.nom + '</b><br>' + place.adresse + '<br>';
 
       // Ajout de l'image du QR code cliquable
-      popupContent += '<a href="' + place.qrcode + '" target="_blank"><img src="images/qrcode.jpg" alt="En savoir plus !"></a>';
+      popupContent += '<a href="' + place.qrcode + '" target="_blank"><img src="images/info.jpg" alt="QR Code 1" width="130" height="50"></a>' + ""  +
+      '<a href="' + place.qrcode2 + '" target="_blank"><img src="images/info.jpg" alt="QR Code 2" width="130" height="50"></a>';
+
+
 
       marker.bindPopup(popupContent);
 

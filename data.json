@@ -6,70 +6,80 @@
         "latitude": 46.15192,
         "longitude": -1.12482,
         "marker": "images/depart.png",
-        "qrcode": "https://me-qr.com/fr/data/image-pack/105177197"
+        "qrcode": "https://me-qr.com/fr/data/image-pack/105177197",
+        "qrcode2":"https://me-qr.com/fr/data/image-pack/105176227"
     },
     {
         "nom": "Marais de Tasdon",
         "adresse": "55 boulevard Joffre, 17000 La Rochelle",
         "latitude": 46.14902,
         "longitude": -1.12197,
-        "qrcode": "https://me-qr.com/fr/data/image-pack/105158674"
+        "qrcode": "https://me-qr.com/fr/data/image-pack/107519695",
+        "qrcode2":"https://me-qr.com/fr/data/image-pack/107520851"    
     },
     {
         "nom": "Vélodyssée la rochelle",
         "adresse": " 85 boulevard de la République, dans le quartier des Minimes",
         "latitude": 46.13849,
         "longitude": -1.15000,
-        "qrcode": "https://me-qr.com/fr/data/image-pack/105158674"
+        "qrcode": "https://me-qr.com/fr/data/image-pack/107520851",
+        "qrcode2":"https://me-qr.com/fr/data/image-pack/107519695"       
     },
     {
         "nom": "L’Auberge de Jeunesse",
         "adresse": "Avenue des Minimes, 17000 La Rochelle",
         "latitude": 46.14455,
         "longitude": -1.16187,
-        "qrcode": "chemin/vers/le/QRcode12.png"
+        "qrcode": "https://me-qr.com/fr/data/image-pack/107521816",
+        "qrcode2":"https://me-qr.com/fr/data/image-pack/107522514"    
     },
     {
         "nom": "L’Université LR",
         "adresse": "23 Avenue Albert Einstein, 17000 La Rochelle",
         "latitude": 46.14779,
         "longitude": -1.15514,
-        "qrcode": "chemin/vers/le/QRcode11.png"
+        "qrcode": "https://me-qr.com/fr/data/image-pack/107522962",
+        "qrcode2":"https://me-qr.com/fr/data/image-pack/105176227"  
     },
     {
         "nom": "Gare La Rochelle",
         "adresse": "Place Pierre Sémard, 17000 La Rochelle",
         "latitude": 46.15301,
         "longitude": -1.14597,
-        "qrcode": "https://me-qr.com/fr/data/image-pack/105158674"
+        "qrcode": "https://me-qr.com/fr/data/image-pack/105158674",
+        "qrcode2":"https://me-qr.com/fr/data/image-pack/107524038"  
     },
     {
         "nom": "Cloître des Dames Blanches - CDA",
         "adresse": "6 Rue Saint-Michel, 17000 La Rochelle",
         "latitude": 46.15973,
         "longitude": -1.14961,
-        "qrcode": "chemin/vers/le/QRcode5.png"
+        "qrcode": "https://me-qr.com/fr/data/image-pack/107525045",
+        "qrcode2":"https://me-qr.com/fr/data/image-pack/107525795"  
     },
     {
         "nom": "Port-Neuf, Batiments 11 à 16",
         "adresse": "rue de Normandie",
         "latitude": 46.15843,
         "longitude": -1.18132,
-        "qrcode": "chemin/vers/le/QRcode9.png"
+        "qrcode": "https://me-qr.com/fr/data/image-pack/107526428",
+        "qrcode2":"https://me-qr.com/fr/data/image-pack/107527073" 
     },
     {
         "nom": "Centre nautique - Les Plates ",
         "adresse": "All. Léon Douzille, 17000 La Rochelle",
         "latitude": 46.15156,
         "longitude": -1.18776,
-        "qrcode": "chemin/vers/le/QRcode9.png"
+        "qrcode": "https://me-qr.com/fr/data/image-pack/107527887",
+        "qrcode2":"https://me-qr.com/fr/data/image-pack/107528636"  
     },
     {
         "nom": "Port de Pêche et Usine Solvay de Chef de Baie",
         "adresse": "89 Quai Ponant, La Rochelle",
         "latitude": 46.1491,
         "longitude": -1.22145,
-        "qrcode": "chemin/vers/le/QRcode8.png"
+        "qrcode": "https://me-qr.com/fr/data/image-pack/105176227",
+        "qrcode2":"https://me-qr.com/fr/data/image-pack/107529592"  
     },
 
     {
@@ -78,6 +88,7 @@
         "latitude": 46.16167,
         "longitude": -1.22566,
         "marker": "images/arrivee.png",
-        "qrcode": "chemin/vers/le/QRcode13.png"
+        "qrcode": "https://me-qr.com/fr/data/image-pack/107531614",
+        "qrcode2":"https://me-qr.com/fr/data/image-pack/107532108"  
     }
 ]
